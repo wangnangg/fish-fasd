@@ -11,7 +11,7 @@ fasd for fish shell
 With [fisherman]
 
 ```fish
-$ fisher wangnangg/fasd
+$ fisher add wangnangg/fish-fasd
 ```
 
 
